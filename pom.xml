@@ -37,7 +37,7 @@
 						<username>inkisarahmed1</username>
 						<password>Oracle2015</password>
 						<environment>Sandbox</environment>
-						<applicationName>timezone-api-cicdpipeline</applicationName>
+						<applicationName>timezone-api-cicdpipeline1</applicationName>
 						<workers>1</workers>
 						<workerType>Micro</workerType>
 						<ObjectStoreV2>true</ObjectStoreV2>

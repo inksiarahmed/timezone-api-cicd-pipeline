@@ -30,16 +30,11 @@
 				<version>${mule.maven.plugin.version}</version>
 				<extensions>true</extensions>
 				<configuration>
-					<armDeployment>
-						<uri>https://anypoint.mulesoft.com</uri>
+					<standaloneDeployment>
+						<muleHome>C:\MyData\MuleSoft\mule-enterprise-standalone-4.3.0</muleHome>
 						<muleVersion>4.3.0</muleVersion>
-						<username>inkisarahmed1</username>
-						<password>Oracle2015</password>
-						<environment>Sandbox</environment>
 						<applicationName>timezone-api-cicdpipeline2</applicationName>
-						<target>mytestqa</target>
-						<targetType>server</targetType>
-					</armDeployment>
+					</standaloneDeployment>
                 <classifier>mule-application</classifier>
                 </configuration>
 			</plugin>

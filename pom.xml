@@ -36,7 +36,7 @@
 						<username>inkisarahmed1</username>
 						<password>Oracle2015</password>
 						<environment>Sandbox</environment>
-						<applicationName>timezone-api-cicdpipeline4</applicationName>
+						<applicationName>timezone-api-cicdpipeline5</applicationName>
 						<target>mytestqa</target>
 						<targetType>server</targetType>
 					</armDeployment>
